@@ -76,4 +76,4 @@ A lightweight URL shortener built in Go with a RESTful API, SQLite storage, and 
 ---
 
 <p align="center">
-  <i>Open to SDE full-time roles starting mid-2026 �
+  <i>Open to SDE full-time roles �
