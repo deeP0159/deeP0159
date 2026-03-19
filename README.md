@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://leetcode.com/u/Deepansusingh/"><img src="https://img.shields.io/badge/LeetCode-1684%20rating%20%7C%20846%20solved-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://www.linkedin.com/in/deepansu-singh-1a83b627a/"><img src="https://img.shields.io/badge/LinkedIn-Deepansu%20Singh-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:deepansusingh9450@gmail.com"><img src="https://img.shields.io/badge/Email-deepansusingh9450%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="/cdn-cgi/l/email-protection#f195949481909f828482989f9699c8c5c4c1b1969c90989ddf929e9c"><img src="https://img.shields.io/badge/Email-deepansusingh9450%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -61,7 +61,7 @@ A lightweight URL shortener built in Go with a RESTful API, SQLite storage, and 
 ## DSA stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Deepansusingh?theme=light&font=Nunito&ext=heatmap" alt="LeetCode stats"/>
+  <img src="https://raw.githubusercontent.com/deeP0159/deeP0159/main/leetcode-stats.png" alt="LeetCode stats — 846 solved · 1684 rating · Top 14.46%" width="800"/>
 </p>
 
 ---
@@ -76,5 +76,4 @@ A lightweight URL shortener built in Go with a RESTful API, SQLite storage, and 
 ---
 
 <p align="center">
-  <i>Open to SDE full-time roles starting mid-2026 — Bengaluru preferred, remote considered</i>
-</p>
+  <i>Open to SDE full-time roles starting mid-2026 �
